@@ -1,0 +1,72 @@
+/*Style for popup html*/
+#mmyPopSummary {
+	background-color: #F0F8FF;
+	width: 400px;
+	padding: 10px;
+	box-shadow: 5px 5px 5px #888888;
+	border: silver;
+	border-radius: 10px;
+	z-index: 100000000;
+}
+
+/*Style for Waiting Words*/
+#mmyPopSummary h3{
+	color: #3CB371;
+	text-align: center;
+	font-size: 25px;
+	font-family: Britannic Bold;
+}
+
+/*Style for the title of the linked page.*/
+#mmyPopSummary h2{
+	color: #00CED1 ;
+	text-align: center;
+	font-size: 20px;
+	font-family: Cooper Black;
+	margin: 10px;
+}
+
+/*Style for the h1 headlines of the linked page.*/
+#mmyPopSummary ul{
+	color: #F08080;
+	font-size: 15px;
+	font-family: Papyrus;
+	text-align: left;
+	list-style-type: square;
+	/*margin: 10px;*/
+}
+
+/*Style for the first paragraph of the linked page.*/
+#mmyPopSummary p{
+	color:  #708090;
+	font-size: 12px;
+	font-style: italic;
+	font-family: Century Gothic;
+	text-align: left;
+	margin: 10px;
+}
+
+/*Style for the div of the image.*/
+#imgPart {
+	max-width: 380px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin: 10px;
+}
+
+/*Style for the image of the linked page.*/
+#mmyPopSummary img{
+	/*margin: 10px;*/
+	max-width: 360px;
+	border: 2px solid #aaaaaa;
+}
+
+/*Style for the exception output.*/
+#mmyPopSummary h6 {
+	color: #FF4500;
+	font-size: 25px;
+	font-family: Curlz MT;
+	text-align: center;
+}
+
